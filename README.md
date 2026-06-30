@@ -4,6 +4,24 @@ My organization is working to make their system more secure. It is my job to ens
 Retrieve after hours failed login attempts
 There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.
 
+The exemplar uses details from the given scenario and includes the following:
+
+Screenshots of queries or typed versions of the queries
+
+Explanations of queries
+
+A project description at the beginning
+
+A summary at the end
+
+Details on using LIKE to search for a pattern
+
+Details on filtering for dates and times
+
+Details on using AND and OR to filter on multiple conditions
+
+Details on using NOT in filters 
+
 The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours.
 
 <img width="796" height="185" alt="image" src="https://github.com/user-attachments/assets/abc7d1d5-d573-4903-b103-c58094ae4423" />
